@@ -235,3 +235,6 @@ This project is open source. Feel free to fork, modify, and build upon it.
 ---
 
 > Built with ❤️ using Django & my ML trained model
+
+
+# ---- SENKS ----
